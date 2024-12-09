@@ -21,7 +21,7 @@ class Content extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      colorIndexes: {}, // Стан для відстеження кольору кожного текстового елемента
+      colorIndexes: {}, 
       imageVisible: true,
       imageWidth: 500,
       imageHeight: 280,
